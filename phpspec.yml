@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: TaskManagement
+        psr4_prefix: TaskManagement
+        src_path: app
